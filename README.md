@@ -6,7 +6,7 @@ Este é um programa desenvolvido em Java (Swing) que permite ao usuário ajustar
 🔺 Isósceles – Dois lados iguais.
 🔺 Escaleno – Todos os lados diferentes.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 Java
 Swing (GUI)
 NetBeans IDE (ou outra que você usou)
